@@ -5,7 +5,7 @@
 Configuration is now done using a JSON file (finally!)
 So you no longer have to rebuild the application to modify the target window and crosshair design. Run the app once to generate the default `config.json` file to make things easier.
 
-> default `config.json`
+> Default `config.json`
 ```json
 {
     "target": "FiveM", // Target Window Title
