@@ -1,4 +1,6 @@
-# <center>ESoft Crosshairs</center>
+<center>
+# ESoft Crosshairs
+</center>
 > Simple app to draw a crosshair in any game window
 
 ## Configuration
