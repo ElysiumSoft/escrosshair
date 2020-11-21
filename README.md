@@ -22,7 +22,7 @@ So you no longer have to rebuild the application to modify the target window and
 
 #### 🔵 Clone the project from github:
 ```bash
-git clone https://github.com/ElysiumSoft/es-crosshairs
+git clone https://github.com/ElysiumSoft/escrosshairs.git
 ```
 
 #### 🔵 Open `ElysiumCrosshairs.vcxproj` in VS2019, it can be found in the root directory of the newly cloned repository.
