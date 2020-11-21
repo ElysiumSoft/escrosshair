@@ -4,7 +4,7 @@
 
 ## Configuration
 Configuration is now done using a JSON file (finally!)
-So you no longer have to rebuild the application to modify the target window and crosshair design. Run the app once to generate the default `config.json` file to make things easier.
+So you no longer have to rebuild the application to modify the target window and crosshair design. Run the app once to generate the default `config.json` file to make things easier. Note: The `"target"` value doesn't need to be the full title, the app searches for titles that contain the value of `"target"` ie. `Note` should select `Notpad`
 
 > Default `config.json`
 ```json
@@ -45,4 +45,7 @@ git clone https://github.com/ElysiumSoft/escrosshairs.git
 
 </center>
 
-
+## Known Issues
+|   Issue     |
+|:------------|
+|Struggles with selecting windows with complex unicode characters in the title |
