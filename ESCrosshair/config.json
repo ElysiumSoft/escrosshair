@@ -1,0 +1,7 @@
+{
+    "target": "FiveM", // Target Window Title
+    "colour": 255,	   // Crosshair Colour (UINT)
+    "thickness": 3,	   // Crosshair Thickness
+    "width": 36,	   // Crosshair Width
+    "height": 36	   // Crosshair Height
+}
