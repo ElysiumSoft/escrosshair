@@ -9,11 +9,11 @@ So you no longer have to rebuild the application to modify the target window and
 > Default `config.json`
 ```json
 {
-    "target": "FiveM", // Target Window Title
-    "colour": 255,	   // Crosshair Colour (UINT)
-    "thickness": 3,	   // Crosshair Thickness
-    "width": 36,	   // Crosshair Width
-    "height": 36	   // Crosshair Height
+    "target": "FiveM",
+    "colour": 255,
+    "thickness": 3,
+    "width": 36,
+    "height": 36
 }
 ```
 
